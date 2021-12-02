@@ -7,6 +7,8 @@
  * Header for: uart.c
  */
 
+#include <stdint.h>
+
 // This is a guard condition so that contents of this file are not included
 // more than once.
 #ifndef VOLTMETER_HEADER_UART_H
