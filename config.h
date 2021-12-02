@@ -19,11 +19,13 @@
  * TERMS. 
  */
 
-/* 
- * File:   
- * Author: 
- * Comments:
- * Revision history: 
+/*
+ * File:   config.h
+ * Author: Jennifer L. Krueger, Fabian Zaremba
+ * IDE: MPLAB X v5.5
+ * Compiler: XC8 v2.32
+ * Target device: PIC18F4520
+ * Header for: Device Configuration, Including compiler / device standard library
  */
 
 // This is a guard condition so that contents of this file are not included

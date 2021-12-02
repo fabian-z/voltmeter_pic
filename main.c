@@ -1,6 +1,9 @@
 /*
  * File:   main.c
- * Author: fabian
+ * Author: Jennifer L. Krueger, Fabian Zaremba
+ * IDE: MPLAB X v5.5
+ * Compiler: XC8 v2.32
+ * Target device: PIC18F4520
  *
  * Created on 29. November 2021, 13:10
  */
